@@ -1,0 +1,6 @@
+#FIXME
+
+loop 5
+    print "Hi from ArScratch"
+    print "Love it <3"
+endloop

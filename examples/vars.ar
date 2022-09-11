@@ -1,0 +1,13 @@
+# Hi 
+test = 10
+test
+
+b = 100 + 50 + 90 * 80
+b
+
+mission GO
+print "Hi"
+print "2"
+endmission
+
+GO
